@@ -14,6 +14,7 @@ def first_challenge
   }
 
   #your code here
+  contacts[:fredd]
 
 
   #remember to return your newly altered contacts hash!
